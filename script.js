@@ -1,1 +1,1 @@
-console.log("Site-ul functioneaza");
+console.log("working");
