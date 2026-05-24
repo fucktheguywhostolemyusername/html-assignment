@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  background: #2A7B9B;
+  background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  padding: 30px;
+  color: #333;
+}
+
+h2 {
+  color: #b00b00;
+}
+h3 {
+  color: #1037ad;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #ffffff;
+  width: auto;
+}
+
+th, td {
+  border: 2px solid #000000;
+  padding: 20px;
+  text-align: center;
+}
+
+th {
+  background-color: #b00b00;
+color: #999999;
+}
